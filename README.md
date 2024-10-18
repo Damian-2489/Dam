@@ -14,4 +14,4 @@ El desarrollo del proyecto seguirá la metodología Extreme Programming (XP), la
 | Damián Aruquipa | Encargado de Pruebas    |
 
 ### Herramientas de Desarrollo
-![Texto alternativo](/E:/Mis Documentos/Downloads/papel.jfif)
+![Texto alternativo](/papel.jfif)
